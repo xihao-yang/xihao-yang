@@ -46,7 +46,7 @@ I also use frameworks like:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Xihao12&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
