@@ -49,4 +49,4 @@ I also use frameworks like:
 ![Stats](https://github-readme-stats.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goat1ee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xihao-yang&layout=compact&theme=radical)
