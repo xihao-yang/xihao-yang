@@ -1,2 +1,0 @@
-# Xihao--Yang
-Self
