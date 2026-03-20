@@ -46,7 +46,6 @@ I also use frameworks like:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-xihao.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent" />
