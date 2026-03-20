@@ -1,5 +1,7 @@
 ## 👨🏻‍💻About Me
-Hi,my name is Yang Xihao. Now,I'm a student studying at Keio Univerisity.
+Hi, my name is Yang Xihao. 
+
+Now, I'm a Master student studying at Keio Univerisity.
 
 🔭 I’m currently working on Automated Program repair and Deep Learning
 
