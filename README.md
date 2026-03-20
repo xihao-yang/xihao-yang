@@ -43,7 +43,6 @@ I also use frameworks like:
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
