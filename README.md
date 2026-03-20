@@ -46,8 +46,17 @@ I also use frameworks like:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-xihao.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-xihao.vercel.app/api/top-langs/?username=xihao-yang&layout=compact&langs_count=6&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats-xihao.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-xihao.vercel.app/api/top-langs/?username=xihao-yang&layout=compact&langs_count=6&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xihao-yang&theme=transparent" />
+</p>
 
