@@ -40,7 +40,7 @@ I also use frameworks like:
 
 <!-- redploy-->
 <p align="center">
-  <img src="https://github-readme-stats-xihao.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent&count_private=true" />
+  <img src="https://github-readme-stats-xihao.vercel.app/api?username=xihao-yang&show_icons=true&theme=transparent&count_private=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
