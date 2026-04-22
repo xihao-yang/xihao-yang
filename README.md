@@ -44,7 +44,7 @@ I also use frameworks like:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-xihao.vercel.app/api/top-langs/?username=xihao-yang&layout=compact&langs_count=6&theme=transparent&count_private=true&langs_count=10" />
+  <img src="https://github-readme-stats-xihao.vercel.app/api/top-langs/?username=xihao-yang&layout=compact&langs_count=6&theme=transparent&count_private=true&" />
 </p>
 
 <p align="center">
