@@ -6,7 +6,7 @@ Now, I'm a Master student studying at Keio Univerisity.
 
 🔭 I’m currently working on Automated Program repair and Deep Learning.
 
-Besides, in my free time, I like to writ some codes about agent
+Besides, in my free time, I like to writ some codes about agent.
 
 
 ## 🛠️ Tech Stack & 🖼️ Framework
