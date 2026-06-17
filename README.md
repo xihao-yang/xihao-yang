@@ -4,7 +4,7 @@ Hi, my name is Yang Xihao.
 
 Now, I'm a Master student studying at Keio Univerisity.
 
-🔭 I’m currently working on Automated Program repair and Deep Learning.
+🔭 I’m currently working on Automated Program repair and Deep Learning (Especially Automated Patch Correctness Assessemnt-APCA)
 
 Besides, in my free time, I like to writ some codes about agent.
 
