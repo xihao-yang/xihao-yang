@@ -34,7 +34,6 @@ I also use frameworks like:
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-
 ## 📊 GitHub Stats
 
 <!-- redploy-->
