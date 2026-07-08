@@ -46,6 +46,6 @@ I also use frameworks like:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xihao-yang&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xihao-yang&theme=transparent"/>
 </p>
 
